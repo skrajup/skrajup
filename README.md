@@ -59,7 +59,4 @@ Here are some ideas to get you started:
 ```
 No matter how hard the past, You can always begin again..... Budhha
 ```
------
-<!-- Credits: [skrajup](https://github.com/skrajup) -->
-
 Last Edited on: 18/09/2022
