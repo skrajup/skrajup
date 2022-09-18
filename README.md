@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 ### About 📌
 
-### <img src="https://img.shields.io/badge/-▶️-green">&nbsp;&nbsp;  **Domain :** Software Development, Full Stack Development 💻
-### ✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, OOP
-### ✔  **Learning :** Blockchain
-### ✔  **Hobbies :**  Music 🎧, Gaming 🎮, Read 📕
+✔  **Domain :** Software Development, Full Stack Development 💻
+✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, OOP
+✔  **Learning :** Blockchain
+✔  **Hobbies :**  Music 🎧, Gaming 🎮, Read 📕
 
 <hr>
 
