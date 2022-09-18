@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ### About 📌
 
 ### ✔  **Domain :** Software Development, Full Stack Development 💻
-### ✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, Object Oriented Programming
+### ✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, OOP
 ### ✔  **Learning :** Blockchain
 ### ✔  **Hobbies :**  Music 🎧, Gaming 🎮, Read 📕
 
@@ -59,8 +59,7 @@ Here are some ideas to get you started:
 ```
 No matter how hard the past, You can always begin again..... Budhha
 ```
-
 -----
-Credits: [skrajup](https://github.com/skrajup)
+<!-- Credits: [skrajup](https://github.com/skrajup) -->
 
 Last Edited on: 18/09/2022
