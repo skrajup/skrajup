@@ -46,9 +46,9 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-VS Code-yellow" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-C-orange" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-C++-blue" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-DS & Algo-blue" />&nbsp;&nbsp;
-   <br />
       <img src="https://img.shields.io/badge/-Windows-yellow" />&nbsp;&nbsp;
+   <br />
+   
       <img src="https://img.shields.io/badge/-Ubuntu-green" />&nbsp;&nbsp;
 </p> 
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ✔  **Domain :** Software Development, Full Stack Development 💻
 
-✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, OOP
+✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, OOP, Data Structures, Algorithms
 
 ✔  **Learning :** Blockchain
 
