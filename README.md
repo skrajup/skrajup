@@ -28,17 +28,27 @@ Here are some ideas to get you started:
 
 <h2>Tools & Technologies</h2>
 <p>
-   <img src="https://img.shields.io/badge/-HTML-orange" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-CSS-green" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-JavaScript-yellow" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-HTML-orange" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-CSS-green" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-yellow" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />&nbsp;&nbsp;
    <br />
-   <img src="https://img.shields.io/badge/-Node.js-green" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-MongoDB-blue" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-MySQL-orange" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Git-informational" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Node.js-green" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Express.js-green" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-MongoDB-blue" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-MySQL-orange" />&nbsp;&nbsp;
    <br />
-   <img src="https://img.shields.io/badge/-GitHub-success" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Git-informational" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-GitHub-success" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Socket.io-red" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-WebRTC-blue" />&nbsp;&nbsp;
+   <br />
+      <img src="https://img.shields.io/badge/-Visual Studio Code-yellow" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-C-orange" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-C++-blue" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Windows-yellow" />&nbsp;&nbsp;
+   <br />
+      <img src="https://img.shields.io/badge/-Ubuntu-yellow" />&nbsp;&nbsp;
 </p> 
 
 
