@@ -48,7 +48,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-C++-blue" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-Windows-yellow" />&nbsp;&nbsp;
    <br />
-   
       <img src="https://img.shields.io/badge/-Ubuntu-green" />&nbsp;&nbsp;
 </p> 
 
