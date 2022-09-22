@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1>I'm Saurabh Kumar 🙋‍♂️</h1>
-<h2>💻👨‍An enthusiatic and Passionate Programmer & E-sports Lover, who loves to do things in details till consent 🥴. You can call me **SKR** 😇</h2>
+<h2>An enthusiatic and Passionate Programmer & E-sports Lover, who loves to do things in details till consent 🥴.</h2>
+ You can call me **SKR** 😇
 
 <hr>
 
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 
 ✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, Full Stack Web Development
 
-✔  **Key Areas :** Data Structures & Algorithms, Object Oriented Programming, Operating System Concepts, Computer Networks, Probability Theory, Linear Algebra
+✔  **Key Areas :** DS & Algo, OOPs, Operating System Concepts, Computer Networks, Probability Theory, Linear Algebra
 
 ✔  **Areas of Interest :** Blockchain Technology
 
