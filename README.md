@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **skrajup/skrajup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>I'm Saurabh Kumar 🙋‍♂️</h1>
-<h2>💻👨‍💻Coder & Gamer</h2>
+<h2>💻👨‍An enthusiatic and Passionate Programmer & E-sports Lover, who loves to do things in details till consent 🥴. You can call me **SKR** 😇</h2>
 
 <hr>
 
