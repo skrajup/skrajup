@@ -58,9 +58,11 @@ Here are some ideas to get you started:
 
 ✔  **Domain :** Software Development, Full Stack Development 💻
 
-✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, OOP, Data Structures, Algorithms
+✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, Full Stack Web Development
 
-✔  **Learning :** Blockchain
+✔  **Key Areas :** Data Structures & Algorithms, Object Oriented Programming, Operating System Concepts, Computer Networks, Probability Theory, Linear Algebra
+
+✔  **Areas of Interest :** Blockchain Technology
 
 ✔  **Hobbies :**  Music 🎧, Gaming 🎮, Read 📕
 
