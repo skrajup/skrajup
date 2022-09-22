@@ -43,12 +43,13 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-Socket.io-red" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-WebRTC-blue" />&nbsp;&nbsp;
    <br />
-      <img src="https://img.shields.io/badge/-Visual Studio Code-yellow" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-VS Code-yellow" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-C-orange" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-C++-blue" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Windows-yellow" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-DS & Algo-blue" />&nbsp;&nbsp;
    <br />
-      <img src="https://img.shields.io/badge/-Ubuntu-yellow" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Windows-yellow" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Ubuntu-green" />&nbsp;&nbsp;
 </p> 
 
 
