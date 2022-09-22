@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ✔  **Areas of Interest :** Blockchain Technology
 
-✔  **Hobbies :**  Music 🎧, Gaming 🎮, Read 📕
+✔  **Hobbies :**  Music 🎧, Gaming 🎮, Read 📕, Writing 🖊
 
 <hr>
 
