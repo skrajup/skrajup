@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>I'm Saurabh Kumar 🙋‍♂️</h1>
+<h1>Myself Saurabh 🙋‍♂️</h1>
 <h2>An enthusiatic and Passionate Programmer & E-sports Lover, who loves to do things till consent 🥴.</h2>
 
 <hr>
