@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### About 📌
 
-✔  **Domain :** Software Development, Full Stack Development 💻
+✔  **Domain :** Software Development, Full Stack Development 
 
 ✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, Full Stack Web Development
 
