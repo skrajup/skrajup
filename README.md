@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Myself Saurabh 🙋‍♂️</h1>
-<h2>An enthusiatic and Passionate Programmer & E-sports Lover, who loves to do things till consent 🥴.</h2>
+<h2>An enthusiatic, passionate programmer & esports lover, who loves to do things till consent 🥴.</h2>
 
 <hr>
 
