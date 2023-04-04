@@ -48,6 +48,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-Windows-yellow" />&nbsp;&nbsp;
    <br />
       <img src="https://img.shields.io/badge/-Ubuntu-green" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Pattern Recognition-red" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Machine Learning-blue" />&nbsp;&nbsp;
 </p> 
 
 
@@ -59,7 +61,7 @@ Here are some ideas to get you started:
 
 ✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, Full Stack Web Development
 
-✔  **Key Areas :** DS & Algo, OOPs, Operating System Concepts, Computer Networks, Probability Theory, Linear Algebra
+✔  **Key Areas :** DS & Algo, OOPs, Operating System Concepts, Computer Networks, Pattern Recognition, Machine Learning, Probability Theory, Linear Algebra
 
 ✔  **Areas of Interest :** Blockchain Technology
 
