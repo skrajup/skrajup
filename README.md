@@ -27,17 +27,10 @@ Here are some ideas to get you started:
 
 <h2>Tools & Technologies</h2>
 <p>
-      <img src="https://img.shields.io/badge/-HTML-orange" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-CSS-green" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-JavaScript-yellow" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Github Actions-informational" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-C++-blue" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Linux-black" />&nbsp;&nbsp;
-      
+      ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)   
 </p> 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-<hr>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### About 📌
 
@@ -53,7 +46,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ```
 No matter how hard the past, You can always begin again..... Budhha
