@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 <hr>
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ```
 No matter how hard the past, You can always begin again..... Budhha
 ```
