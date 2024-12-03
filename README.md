@@ -33,9 +33,9 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-Github Actions-informational" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-C++-blue" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-Linux-black" />&nbsp;&nbsp;
-      ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+      
 </p> 
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <hr>
 
