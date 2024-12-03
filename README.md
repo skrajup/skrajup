@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ArgoCD](https://img.shields.io/badge/argocd-FF6C37?style=for-the-badge&logo=argo&logoColor=white)
 
 ### About 📌
 
