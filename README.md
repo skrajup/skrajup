@@ -30,26 +30,10 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-HTML-orange" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-CSS-green" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-JavaScript-yellow" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />&nbsp;&nbsp;
-   <br />
-      <img src="https://img.shields.io/badge/-Node.js-green" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Express.js-green" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-MongoDB-blue" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-MySQL-orange" />&nbsp;&nbsp;
-   <br />
-      <img src="https://img.shields.io/badge/-Git-informational" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-GitHub-success" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Socket.io-red" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-WebRTC-blue" />&nbsp;&nbsp;
-   <br />
-      <img src="https://img.shields.io/badge/-VS Code-yellow" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-C-orange" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Github Actions-informational" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-C++-blue" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Windows-yellow" />&nbsp;&nbsp;
-   <br />
-      <img src="https://img.shields.io/badge/-Ubuntu-green" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Pattern Recognition-red" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Machine Learning-blue" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Linux-black" />&nbsp;&nbsp;
+      ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </p> 
 
 
