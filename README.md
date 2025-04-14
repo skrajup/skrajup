@@ -2,7 +2,7 @@
 
 ## 🗓️ Week 1: Python Refresher, Arrays & Strings
 ### 📚 Concepts
-- Review Python basics (lists, sets, dicts, loops, functions)
+- [ ] Review Python basics (lists, sets, dicts, loops, functions)
 
 ### 💻 Problems
 - [ ] Solve `Two Sum`
@@ -27,8 +27,8 @@
 
 ## 🗓️ Week 2: Stacks, Queues & Hashmaps
 ### 📚 Concepts
-- Learn about Stack, Queue, Deque in Python
-- Practice `collections.deque`, `defaultdict`, `Counter`
+- [ ] Learn about Stack, Queue, Deque in Python
+- [ ] Practice `collections.deque`, `defaultdict`, `Counter`
 
 ### 💻 Problems
 - [ ] Solve `Valid Parentheses`
@@ -52,8 +52,8 @@
 
 ## 🗓️ Week 3: Linked Lists & Recursion
 ### 📚 Concepts
-- Visualize pointer movements
-- Practice recursion step-by-step
+- [ ] Visualize pointer movements
+- [ ] Practice recursion step-by-step
 
 ### 💻 Problems
 - [ ] Solve `Reverse Linked List`
@@ -76,9 +76,9 @@
 
 ## 🗓️ Week 4: Trees & Binary Search
 ### 📚 Concepts
-- Understand tree vs BST
-- Learn traversal types (pre/in/post/level)
-- Master binary search logic
+- [ ] Understand tree vs BST
+- [ ] Learn traversal types (pre/in/post/level)
+- [ ] Master binary search logic
 
 ### 💻 Problems
 - [ ] Solve `Maximum Depth of Binary Tree`
@@ -102,9 +102,9 @@
 
 ## 🗓️ Week 5: Graphs & Backtracking
 ### 📚 Concepts
-- Understand BFS vs DFS
-- Build graphs using adjacency lists
-- Practice backtracking (choose → explore → unchoose)
+- [ ] Understand BFS vs DFS
+- [ ] Build graphs using adjacency lists
+- [ ] Practice backtracking (choose → explore → unchoose)
 
 ### 💻 Problems
 - [ ] Solve `Number of Islands`
@@ -136,8 +136,8 @@
 
 ## 🗓️ Week 6: Dynamic Programming (DP)
 ### 📚 Concepts
-- Learn memoization vs tabulation
-- Identify overlapping subproblems & optimal substructure
+- [ ] Learn memoization vs tabulation
+- [ ] Identify overlapping subproblems & optimal substructure
 
 ### 💻 Problems
 - [ ] Solve `Climbing Stairs`
