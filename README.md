@@ -1,61 +1,159 @@
-<!--
-**skrajup/skrajup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✅ 6-Week DSA Practice Plan (Python - Expanded & Interview-Focused)
 
-Here are some ideas to get you started:
+## 🗓️ Week 1: Python Refresher, Arrays & Strings
+### 📚 Concepts
+- Review Python basics (lists, sets, dicts, loops, functions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Problems
+- [ ] Solve `Two Sum`
+- [ ] Solve `Best Time to Buy and Sell Stock`
+- [ ] Solve `Contains Duplicate`
+- [ ] Solve `Valid Anagram`
+- [ ] Solve `Valid Palindrome`
+- [ ] Solve `Reverse String`
+- [ ] Solve `Merge Sorted Array`
+- [ ] Solve `Move Zeroes`
+- [ ] Solve `Longest Common Prefix`
+- [ ] Solve `Longest Substring Without Repeating Characters`
 
-<h1>Myself Saurabh 🙋‍♂️</h1>
-<h2>An enthusiatic, passionate programmer & esports lover, who loves to do things till consent 🥴.</h2>
+### 🔁 Revision Focus
+- [ ] Revise list & string methods: `.append()`, slicing, `.join()`
+- [ ] Understand two-pointer & sliding window patterns
+- [ ] Practice using hash sets/maps to detect duplicates
+- [ ] Reflect on edge cases: empty strings, single elements
+- [ ] Re-attempt 2 previously solved problems cold (no notes)
 
-<hr>
+---
 
-<h3>How to reach me:</h3>
+## 🗓️ Week 2: Stacks, Queues & Hashmaps
+### 📚 Concepts
+- Learn about Stack, Queue, Deque in Python
+- Practice `collections.deque`, `defaultdict`, `Counter`
 
-<a href="https://www.linkedin.com/in/skr2065"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<i class="fa-brands fa-linkedin"></i>
-<a href="mailto:skrajprof1947@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<hr>
+### 💻 Problems
+- [ ] Solve `Valid Parentheses`
+- [ ] Solve `Min Stack`
+- [ ] Solve `Implement Queue using Stacks`
+- [ ] Solve `Implement Stack using Queues`
+- [ ] Solve `First Unique Character in a String`
+- [ ] Solve `Group Anagrams`
+- [ ] Solve `Top K Frequent Elements`
+- [ ] Solve `Intersection of Two Arrays`
+- [ ] Solve `Design Circular Queue`
 
-### Tools & Technologies
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)   
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ArgoCD](https://img.shields.io/badge/argocd-FF6C37?style=for-the-badge&logo=argo&logoColor=white)
+### 🔁 Revision Focus
+- [ ] Understand stack vs queue use cases and real-world applications
+- [ ] Know Python implementations (`list`, `deque`)
+- [ ] Learn when to use `Counter`, `defaultdict`, `dict`
+- [ ] Review stack state evolution during problems
+- [ ] Re-attempt 1 hashmap + 1 queue-based problem cold
 
-### About 📌
+---
 
-✔  **Domain :** Software Development, Full Stack Development 
+## 🗓️ Week 3: Linked Lists & Recursion
+### 📚 Concepts
+- Visualize pointer movements
+- Practice recursion step-by-step
 
-✔  **Skills :** HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mysql, Socket.io, WebRTC, C, C++, Full Stack Web Development
+### 💻 Problems
+- [ ] Solve `Reverse Linked List`
+- [ ] Solve `Merge Two Sorted Lists`
+- [ ] Solve `Remove Nth Node From End of List`
+- [ ] Solve `Linked List Cycle`
+- [ ] Solve `Palindrome Linked List`
+- [ ] Solve `Intersection of Two Linked Lists`
+- [ ] Solve `Add Two Numbers`
+- [ ] Solve `Fibonacci (recursion + memoization)`
+- [ ] Solve `Factorial (recursive)`
 
-✔  **Key Areas :** DS & Algo, OOPs, Operating System Concepts, Computer Networks, Pattern Recognition, Machine Learning, Probability Theory, Linear Algebra
+### 🔁 Revision Focus
+- [ ] Practice dry-running recursive functions
+- [ ] Revisit base case + return logic in recursion
+- [ ] Use diagrams to understand `slow`/`fast`/`prev` pointers
+- [ ] Re-implement 1 recursive + 1 pointer-based LL problem cold
 
-✔  **Areas of Interest :** Blockchain Technology
+---
 
-✔  **Hobbies :**  Music 🎧, Gaming 🎮, Read 📕, Writing 🖊
+## 🗓️ Week 4: Trees & Binary Search
+### 📚 Concepts
+- Understand tree vs BST
+- Learn traversal types (pre/in/post/level)
+- Master binary search logic
 
-<hr>
+### 💻 Problems
+- [ ] Solve `Maximum Depth of Binary Tree`
+- [ ] Solve `Invert Binary Tree`
+- [ ] Solve `Same Tree`
+- [ ] Solve `Diameter of Binary Tree`
+- [ ] Solve `Symmetric Tree`
+- [ ] Solve `Binary Tree Level Order Traversal`
+- [ ] Solve `Validate Binary Search Tree`
+- [ ] Solve `Binary Search`
+- [ ] Solve `Search Insert Position`
+- [ ] Solve `Find First and Last Position of Element in Sorted Array`
 
+### 🔁 Revision Focus
+- [ ] Review traversal implementations (recursive + iterative)
+- [ ] Draw tree diagrams to simulate traversal paths
+- [ ] Trace `low`, `high`, `mid` changes during binary search
+- [ ] Re-attempt 1 tree + 1 binary search problem cold
 
+---
 
-```
-No matter how hard the past, You can always begin again..... Budhha
-```
-Last Edited on: 18/09/2022
+## 🗓️ Week 5: Graphs & Backtracking
+### 📚 Concepts
+- Understand BFS vs DFS
+- Build graphs using adjacency lists
+- Practice backtracking (choose → explore → unchoose)
+
+### 💻 Problems
+- [ ] Solve `Number of Islands`
+- [ ] Solve `Flood Fill`
+- [ ] Solve `Clone Graph`
+- [ ] Solve `Course Schedule`
+- [ ] Solve `Pacific Atlantic Water Flow`
+- [ ] Solve `Letter Combinations of a Phone Number`
+- [ ] Solve `Subsets`
+- [ ] Solve `Permutations`
+- [ ] Solve `Word Search`
+
+### 🔁 Revision Focus
+- [ ] Trace BFS and DFS step-by-step on paper
+- [ ] Review visited set logic to avoid infinite loops
+- [ ] Practice the backtracking template:
+  ```python
+  def backtrack(path):
+      if is_solution(path):
+          res.append(path)
+          return
+      for choice in choices:
+          make_choice()
+          backtrack(path)
+          undo_choice()
+- [ ] Re-attempt 1 DFS + 1 backtracking problem cold
+
+---
+
+## 🗓️ Week 6: Dynamic Programming (DP)
+### 📚 Concepts
+- Learn memoization vs tabulation
+- Identify overlapping subproblems & optimal substructure
+
+### 💻 Problems
+- [ ] Solve `Climbing Stairs`
+- [ ] Solve `House Robber`
+- [ ] Solve `House Robber II`
+- [ ] Solve `Word Break`
+- [ ] Solve `Coin Change`
+- [ ] Solve `Maximum Subarray (Kadane’s Algorithm)`
+- [ ] Solve `Unique Paths`
+- [ ] Solve `Longest Palindromic Substring`
+- [ ] Solve `Longest Common Subsequence`
+- [ ] Solve `Partition Equal Subset Sum`
+
+### 🔁 Revision Focus
+- [ ] Practice defining DP state (parameters)
+- [ ] Convert recursive → memoized → tabulated
+- [ ] Learn common DP categories: sequences, decisions, subsets
+- [ ] Draw the DP table for 1–2 problems manually
+- [ ] Re-attempt 2 previously solved DP problems cold
