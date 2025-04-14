@@ -1,5 +1,14 @@
 # ✅ 6-Week DSA Practice Plan (Python - Expanded & Interview-Focused)
 
+## 📌 Table of Contents
+- [Week 1: Python Refresher, Arrays & Strings](#%EF%B8%8F-week-1-python-refresher-arrays--strings)
+- [Week 2: Stacks, Queues & Hashmaps](#%EF%B8%8F-week-2-stacks-queues--hashmaps)
+- [Week 3: Linked Lists & Recursion](#%EF%B8%8F-week-3-linked-lists--recursion)
+- [Week 4: Trees & Binary Search](#%EF%B8%8F-week-4-trees--binary-search)
+- [Week 5: Graphs & Backtracking](#%EF%B8%8F-week-5-graphs--backtracking)
+- [Week 6: Dynamic Programming (DP)](#%EF%B8%8F-week-6-dynamic-programming-dp)
+
+
 ## 🗓️ Week 1: Python Refresher, Arrays & Strings
 ### 📚 Concepts
 - [ ] Review Python basics (lists, sets, dicts, loops, functions)
