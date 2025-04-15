@@ -1,4 +1,4 @@
-# ✅ 6-Week DSA Practice Plan (Python - Expanded & Interview-Focused)
+# ✅ Practice Plan
 
 ## 📌 Table of Contents
 - [Week 1: Python Refresher, Arrays & Strings](#%EF%B8%8F-week-1-python-refresher-arrays--strings)
